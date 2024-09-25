@@ -8,11 +8,11 @@ Data cleaning with pandas in Python involves handling missing data, removing dup
  #### Tail() : Method is used to view last five rows.
  #### info() :info() get all data from the file.
  #### dropna():Duplicates can be remove.
- #### Remove duplicates :Remove duplicates using df.drop_duplicates().
- #### Dataframe : It is one of the most commonly used data structures in pandas for handling data.
- #### Series :The element in the Series has an index label, allowing for efficient access to elements.
- #### Rename :Rename columns in pandas  using with df.rename().
- #### Replace :Replace the values in pandas.
+ #### Remove duplicates() :Remove duplicates using df.drop_duplicates().
+ #### Dataframe() : It is one of the most commonly used data structures in pandas for handling data.
+ #### Series() :The element in the Series has an index label, allowing for efficient access to elements.
+ #### Rename() :Rename columns in pandas  using with df.rename().
+ #### Replac()e :Replace the values in pandas.
  #### fill() :Fill missing values in panads.
 
  # Queries
