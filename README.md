@@ -15,6 +15,7 @@ Data cleaning with pandas in Python involves handling missing data, removing dup
  #### fill() :Fill missing values in panads.
 
  # Queries
+ Data cleaning with Panads.
  #### 1.Display Top 10 Rows of The Dataset.
  #### 2.Check Last 10 Rows of The Dataset.
  #### 3. Find Shape of Our Dataset (Number of Rows And Number of Columns).
