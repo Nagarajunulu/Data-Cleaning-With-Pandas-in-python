@@ -7,6 +7,7 @@ Data cleaning with pandas in Python involves handling missing data, removing dup
  #### Head() : Method is used view  top first few rows.
  #### Tail() : Method is used to view last five rows.
  #### info() :info() get all data from the file.
+ #### dropna():Duplicates can be remove.
  #### Remove duplicates :Remove duplicates using df.drop_duplicates().
  #### Dataframe : It is one of the most commonly used data structures in pandas for handling data.
  #### Series :The element in the Series has an index label, allowing for efficient access to elements.
